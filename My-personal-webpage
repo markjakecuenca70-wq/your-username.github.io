@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Mendres' Profile</title>
+
+</head>
+
+
+<body>
+
+    <h1><u>mark jake p cuenca</u></h1>
+
+    <a href="index.html">Home</a> |
+
+    <a href="about.html">About Me</a> |
+
+    <a href="hobbies.html">Hobbies</a> |
+
+    <a href="favorites.html">Favorites</a> |
+
+    <a href="goals.html">Goals</a>
+
+    <hr>
+
+    <h1><u>Welcome to My Personal Website</u></h1>
+
+    <img src="imageme.jpg" width="300">
+
+    <p>>This photo represents as a learner and future programmer</p>
+
+    <p>>Welcome to my Personal Website. This Website contains Information about me, my hobbies, my dream career, my favourite things, and my goals.</p>
+
+    <h2>My Location</h2>
+    <p>>The map below shows my selected location using Google Maps iframe.</p>
+
+    <iframe src="m3!1m2!1s0x33a99a1d7b4a310f%3A0x761adc91ac6de8b1!2sBasak%2C%20Lapu-Lapu%2C%20Cebu!5e0!3m2!1sen!2sph!4v1786000617124!5m2!1sen!2sph"
+
+            width="600"
+            height="450"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+
+</body>
+
+</html>
